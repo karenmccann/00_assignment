@@ -61,7 +61,7 @@ $(document).ready(function(){
 
 
 
-
+//FAIL
 
 // this is what i was meant to do
 //'$('body').attr('class', 'nyc');
